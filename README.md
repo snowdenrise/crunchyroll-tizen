@@ -98,7 +98,7 @@
 ## Capturas:
 ![layouts.gif](https://raw.githubusercontent.com/jhassan8/crunchyroll-tizen/master/layouts.gif)
 
-## [Instalación con instalador (Recomendado)](https://github.com/jhassan8/crunchyroll-tizen/blob/master/.github/GUIDES/INSTALL.md)
+## [Instalación con Installer (Script automatizado)s (Recomendado)](https://github.com/jhassan8/crunchyroll-tizen/blob/master/.github/GUIDES/INSTALL.md)
 
 ## Instalación con IDE
 
